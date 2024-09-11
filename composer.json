@@ -1,0 +1,30 @@
+{
+  "name": "thies4321/knytt-stories-tools",
+  "description": "Knytt Stories tools written in PHP",
+  "license": "MIT",
+  "type": "standard",
+  "homepage": "https://github.com/thies4321/knytt-stories-tools",
+  "require": {
+    "php": "^8.2"
+  },
+  "require-dev": {
+    "ergebnis/composer-normalize": "^2.43",
+    "phpunit/phpunit": "^11",
+    "psy/psysh": "^0.12.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "KnyttStoriesTools\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "KnyttStoriesTools\\Tests\\": "tests/unit/"
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "ergebnis/composer-normalize": true
+    }
+  }
+}

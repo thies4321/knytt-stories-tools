@@ -1,2 +1,2 @@
 # knytt-stories-tools
-Knytt Stories Tools
+Knytt Stories tools written in PHP
