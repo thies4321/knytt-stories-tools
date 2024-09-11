@@ -1,5 +1,6 @@
 # knytt-stories-tools
-Knytt Stories tools written in PHP. Currently only has a .knytt.bin parser. 
+Knytt Stories tools written in PHP. Currently only has a .knytt.bin parser.
+This is based of the works of Looki.
 
 ## Basic usage
 
